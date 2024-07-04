@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SchoolPro.Common.Data")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+acfca226535bbf7442063bf170d4e389cbfdbf0e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+85a365f7031bba7fda4bc4985851221dc770ecf8")]
 [assembly: System.Reflection.AssemblyProductAttribute("SchoolPro.Common.Data")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SchoolPro.Common.Data")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

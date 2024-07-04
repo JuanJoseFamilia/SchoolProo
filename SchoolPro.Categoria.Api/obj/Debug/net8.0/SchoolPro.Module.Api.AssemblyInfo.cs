@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SchoolPro.Module.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ce59f1883a94538f34f21a9bc1495fef4dd49178")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+85a365f7031bba7fda4bc4985851221dc770ecf8")]
 [assembly: System.Reflection.AssemblyProductAttribute("SchoolPro.Module.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SchoolPro.Module.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
