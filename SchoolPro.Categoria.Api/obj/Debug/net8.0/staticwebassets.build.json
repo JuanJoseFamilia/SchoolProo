@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "8tdR0p8zeJqx6qtnXDOXJHhO+pvTCCBF2bZGtiw6vzc=",
+  "Source": "SchoolPro.Module.Api",
+  "BasePath": "_content/SchoolPro.Module.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

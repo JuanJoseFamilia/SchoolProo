@@ -1,0 +1,11 @@
+C:\Users\Juan Jose\source\repos\SchoolPro\SchooolPro.Common.Data\bin\Debug\net8.0\SchooolPro.Common.Data.deps.json
+C:\Users\Juan Jose\source\repos\SchoolPro\SchooolPro.Common.Data\bin\Debug\net8.0\SchooolPro.Common.Data.dll
+C:\Users\Juan Jose\source\repos\SchoolPro\SchooolPro.Common.Data\bin\Debug\net8.0\SchooolPro.Common.Data.pdb
+C:\Users\Juan Jose\source\repos\SchoolPro\SchooolPro.Common.Data\obj\Debug\net8.0\SchooolPro.Common.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan Jose\source\repos\SchoolPro\SchooolPro.Common.Data\obj\Debug\net8.0\SchooolPro.Common.Data.AssemblyInfoInputs.cache
+C:\Users\Juan Jose\source\repos\SchoolPro\SchooolPro.Common.Data\obj\Debug\net8.0\SchooolPro.Common.Data.AssemblyInfo.cs
+C:\Users\Juan Jose\source\repos\SchoolPro\SchooolPro.Common.Data\obj\Debug\net8.0\SchooolPro.Common.Data.csproj.CoreCompileInputs.cache
+C:\Users\Juan Jose\source\repos\SchoolPro\SchooolPro.Common.Data\obj\Debug\net8.0\SchooolPro.Common.Data.dll
+C:\Users\Juan Jose\source\repos\SchoolPro\SchooolPro.Common.Data\obj\Debug\net8.0\refint\SchooolPro.Common.Data.dll
+C:\Users\Juan Jose\source\repos\SchoolPro\SchooolPro.Common.Data\obj\Debug\net8.0\SchooolPro.Common.Data.pdb
+C:\Users\Juan Jose\source\repos\SchoolPro\SchooolPro.Common.Data\obj\Debug\net8.0\ref\SchooolPro.Common.Data.dll

@@ -1,0 +1,11 @@
+C:\Users\Juan Jose\source\repos\SchoolPro\SchoolPro.Categoria.Aplication\bin\Debug\net8.0\SchoolPro.Modules.Aplication.deps.json
+C:\Users\Juan Jose\source\repos\SchoolPro\SchoolPro.Categoria.Aplication\bin\Debug\net8.0\SchoolPro.Modules.Aplication.dll
+C:\Users\Juan Jose\source\repos\SchoolPro\SchoolPro.Categoria.Aplication\bin\Debug\net8.0\SchoolPro.Modules.Aplication.pdb
+C:\Users\Juan Jose\source\repos\SchoolPro\SchoolPro.Categoria.Aplication\obj\Debug\net8.0\SchoolPro.Modules.Aplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan Jose\source\repos\SchoolPro\SchoolPro.Categoria.Aplication\obj\Debug\net8.0\SchoolPro.Modules.Aplication.AssemblyInfoInputs.cache
+C:\Users\Juan Jose\source\repos\SchoolPro\SchoolPro.Categoria.Aplication\obj\Debug\net8.0\SchoolPro.Modules.Aplication.AssemblyInfo.cs
+C:\Users\Juan Jose\source\repos\SchoolPro\SchoolPro.Categoria.Aplication\obj\Debug\net8.0\SchoolPro.Modules.Aplication.csproj.CoreCompileInputs.cache
+C:\Users\Juan Jose\source\repos\SchoolPro\SchoolPro.Categoria.Aplication\obj\Debug\net8.0\SchoolPro.Modules.Aplication.dll
+C:\Users\Juan Jose\source\repos\SchoolPro\SchoolPro.Categoria.Aplication\obj\Debug\net8.0\refint\SchoolPro.Modules.Aplication.dll
+C:\Users\Juan Jose\source\repos\SchoolPro\SchoolPro.Categoria.Aplication\obj\Debug\net8.0\SchoolPro.Modules.Aplication.pdb
+C:\Users\Juan Jose\source\repos\SchoolPro\SchoolPro.Categoria.Aplication\obj\Debug\net8.0\ref\SchoolPro.Modules.Aplication.dll

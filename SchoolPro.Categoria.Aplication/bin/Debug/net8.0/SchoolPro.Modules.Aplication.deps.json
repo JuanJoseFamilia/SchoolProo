@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SchoolPro.Modules.Aplication/1.0.0": {
+        "runtime": {
+          "SchoolPro.Modules.Aplication.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SchoolPro.Modules.Aplication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

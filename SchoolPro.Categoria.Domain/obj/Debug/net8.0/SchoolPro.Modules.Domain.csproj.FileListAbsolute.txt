@@ -1,0 +1,15 @@
+C:\Users\Juan Jose\source\repos\SchoolPro\SchoolPro.Categoria.Domain\bin\Debug\net8.0\SchoolPro.Modules.Domain.deps.json
+C:\Users\Juan Jose\source\repos\SchoolPro\SchoolPro.Categoria.Domain\bin\Debug\net8.0\SchoolPro.Modules.Domain.dll
+C:\Users\Juan Jose\source\repos\SchoolPro\SchoolPro.Categoria.Domain\bin\Debug\net8.0\SchoolPro.Modules.Domain.pdb
+C:\Users\Juan Jose\source\repos\SchoolPro\SchoolPro.Categoria.Domain\bin\Debug\net8.0\SchoolPro.Common.Data.dll
+C:\Users\Juan Jose\source\repos\SchoolPro\SchoolPro.Categoria.Domain\bin\Debug\net8.0\SchoolPro.Common.Data.pdb
+C:\Users\Juan Jose\source\repos\SchoolPro\SchoolPro.Categoria.Domain\obj\Debug\net8.0\SchoolPro.Modules.Domain.csproj.AssemblyReference.cache
+C:\Users\Juan Jose\source\repos\SchoolPro\SchoolPro.Categoria.Domain\obj\Debug\net8.0\SchoolPro.Modules.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan Jose\source\repos\SchoolPro\SchoolPro.Categoria.Domain\obj\Debug\net8.0\SchoolPro.Modules.Domain.AssemblyInfoInputs.cache
+C:\Users\Juan Jose\source\repos\SchoolPro\SchoolPro.Categoria.Domain\obj\Debug\net8.0\SchoolPro.Modules.Domain.AssemblyInfo.cs
+C:\Users\Juan Jose\source\repos\SchoolPro\SchoolPro.Categoria.Domain\obj\Debug\net8.0\SchoolPro.Modules.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Juan Jose\source\repos\SchoolPro\SchoolPro.Categoria.Domain\obj\Debug\net8.0\SchoolPr.00FB1086.Up2Date
+C:\Users\Juan Jose\source\repos\SchoolPro\SchoolPro.Categoria.Domain\obj\Debug\net8.0\SchoolPro.Modules.Domain.dll
+C:\Users\Juan Jose\source\repos\SchoolPro\SchoolPro.Categoria.Domain\obj\Debug\net8.0\refint\SchoolPro.Modules.Domain.dll
+C:\Users\Juan Jose\source\repos\SchoolPro\SchoolPro.Categoria.Domain\obj\Debug\net8.0\SchoolPro.Modules.Domain.pdb
+C:\Users\Juan Jose\source\repos\SchoolPro\SchoolPro.Categoria.Domain\obj\Debug\net8.0\ref\SchoolPro.Modules.Domain.dll

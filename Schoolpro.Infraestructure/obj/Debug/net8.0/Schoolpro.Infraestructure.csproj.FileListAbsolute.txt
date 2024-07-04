@@ -1,0 +1,11 @@
+C:\Users\Juan Jose\source\repos\SchoolPro\Schoolpro.Infraestructure\bin\Debug\net8.0\Schoolpro.Infraestructure.deps.json
+C:\Users\Juan Jose\source\repos\SchoolPro\Schoolpro.Infraestructure\bin\Debug\net8.0\Schoolpro.Infraestructure.dll
+C:\Users\Juan Jose\source\repos\SchoolPro\Schoolpro.Infraestructure\bin\Debug\net8.0\Schoolpro.Infraestructure.pdb
+C:\Users\Juan Jose\source\repos\SchoolPro\Schoolpro.Infraestructure\obj\Debug\net8.0\Schoolpro.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan Jose\source\repos\SchoolPro\Schoolpro.Infraestructure\obj\Debug\net8.0\Schoolpro.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\Juan Jose\source\repos\SchoolPro\Schoolpro.Infraestructure\obj\Debug\net8.0\Schoolpro.Infraestructure.AssemblyInfo.cs
+C:\Users\Juan Jose\source\repos\SchoolPro\Schoolpro.Infraestructure\obj\Debug\net8.0\Schoolpro.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\Juan Jose\source\repos\SchoolPro\Schoolpro.Infraestructure\obj\Debug\net8.0\Schoolpro.Infraestructure.dll
+C:\Users\Juan Jose\source\repos\SchoolPro\Schoolpro.Infraestructure\obj\Debug\net8.0\refint\Schoolpro.Infraestructure.dll
+C:\Users\Juan Jose\source\repos\SchoolPro\Schoolpro.Infraestructure\obj\Debug\net8.0\Schoolpro.Infraestructure.pdb
+C:\Users\Juan Jose\source\repos\SchoolPro\Schoolpro.Infraestructure\obj\Debug\net8.0\ref\Schoolpro.Infraestructure.dll

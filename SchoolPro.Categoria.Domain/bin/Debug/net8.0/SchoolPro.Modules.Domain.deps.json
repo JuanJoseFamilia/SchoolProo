@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SchoolPro.Modules.Domain/1.0.0": {
+        "dependencies": {
+          "SchoolPro.Common.Data": "1.0.0"
+        },
+        "runtime": {
+          "SchoolPro.Modules.Domain.dll": {}
+        }
+      },
+      "SchoolPro.Common.Data/1.0.0": {
+        "runtime": {
+          "SchoolPro.Common.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SchoolPro.Modules.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SchoolPro.Common.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
